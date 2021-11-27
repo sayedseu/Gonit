@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.iammohdzaki:KnotFileChooser-Android:1.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ad824f92ca6de5b7f38a4dce948b99/jetified-KnotFileChooser-Android-1.0.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ad824f92ca6de5b7f38a4dce948b99/jetified-KnotFileChooser-Android-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ad824f92ca6de5b7f38a4dce948b99/jetified-KnotFileChooser-Android-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.iammohdzaki/KnotFileChooser-Android/1.0.3/425da892110870fb2c33dd435496cef22a3a8e9b/KnotFileChooser-Android-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

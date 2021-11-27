@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gonit</string>
+    <string name="doc">Documentation</string>
+    <string name="policy">Privacy &amp; Policy</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="sub_doc">See our documentation to know how to use</string>
+    <string name="sub_policy">See Privacy &amp; Policy of Gonit</string>
+    <string name="sub_save">Save file as .xlsx format</string>
+    <string name="sub_clear">Clear your editor</string>
+    <string name="select_folder_to_save">Select a Folder to Save</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="save_successful">File successfully saved</string>
+    <string name="save_failed">Failed to save file</string>
+</resources>
